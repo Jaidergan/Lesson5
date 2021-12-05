@@ -1,0 +1,3 @@
+Informate: 100(l) 50(pr) 20(lab)
+Fizika: 30(l) - 10(lab)
+Fizra: - 30(pr) -
